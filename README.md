@@ -45,3 +45,13 @@ The Constitution has been amended since 1996, so some of these provisions may di
 ## Fonts
 
 The stylesheet embeds Source Serif 4, Nunito Sans and Barlow Condensed, all licensed under the [SIL Open Font License](https://openfontlicense.org/).
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** From the Government Gazette. South Africa's Copyright Act gives no copyright in official texts of a legislative, administrative or legal nature.
+- **Images:** None.
+- **Fonts:** Source Serif 4, Nunito Sans and Barlow Condensed, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
