@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="constitution-of-south-africa-1996-bill-of-rights.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+  <act name="constitution" contains="originalVersion">
+    <meta>
+      <identification source="#gvergottini">
+        <FRBRWork>
+          <FRBRthis value="/akn/za/act/1996/108/!main"/>
+          <FRBRuri value="/akn/za/act/1996/108"/>
+          <FRBRalias value="Constitution of the Republic of South Africa, 1996" name="short"/>
+          <FRBRdate date="1996-12-10" name="assent"/>
+          <FRBRauthor href="#ca" as="#author"/>
+          <FRBRcountry value="za"/>
+          <FRBRsubtype value="constitution"/>
+          <FRBRnumber value="108"/>
+          <FRBRname value="constitution"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/za/act/1996/108/eng@1996-12-18/!main"/>
+          <FRBRuri value="/akn/za/act/1996/108/eng@1996-12-18"/>
+          <FRBRdate date="1996-12-18" name="publication"/>
+          <FRBRauthor href="#ca" as="#author"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/za/act/1996/108/eng@1996-12-18/!main.xml"/>
+          <FRBRuri value="/akn/za/act/1996/108/eng@1996-12-18.xml"/>
+          <FRBRdate date="2026-11-03" name="markup"/>
+          <FRBRauthor href="#gvergottini" as="#editor"/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="1996-12-18" name="Government Gazette" showAs="Government Gazette No. 17678, Vol. 378" number="17678"/>
+      <references source="#gvergottini">
+        <TLCOrganization eId="ca" GUID="225751A1-51A0-449F-82F2-716C1A6AD075" href="/ontology/organization/za.constitutionalAssembly" showAs="Constitutional Assembly"/>
+        <TLCPerson eId="gvergottini" GUID="5196C870-CF0D-4D18-BAD5-288C2AA51174" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+        <TLCRole eId="author" GUID="1F6E8D2C-FDBD-4647-ACCF-4DB565680388" href="/ontology/role/author" showAs="Author"/>
+        <TLCRole eId="editor" GUID="089E4E45-992A-4FDB-86FB-C70B3A402AC5" href="/ontology/role/editor" showAs="Editor"/>
+      </references>
+    </meta>
+    <preamble xml:lang="en">
+      <p class="ph">PREAMBLE</p>
+      <p class="pr">We, the people of South Africa,</p>
+      <p class="pr">Recognise the injustices of our past;</p>
+      <p class="pr">Honour those who suffered for justice and freedom in our land;</p>
+      <p class="pr">Respect those who have worked to build and develop our <eol/>country; and</p>
+      <p class="pr">Believe that South Africa belongs to all who live in it, united in <eol/>our diversity.</p>
+      <p class="pr">We therefore, through our freely elected representatives, adopt <eol/>this Constitution as the supreme law of the Republic so as to –</p>
+      <p class="pi">Heal the divisions of the past and establish a society based <eol/>on democratic values, social justice and <eol/>fundamental human rights;</p>
+      <p class="pi">Lay the foundations for a democratic and open society in <eol/>which government is based on the will of the people and <eol/>every citizen is equally protected by law;</p>
+      <p class="pi">Improve the quality of life of all citizens and free the <eol/>potential of each person; and</p>
+      <p class="pi">Build a united and democratic South Africa able to take its <eol/>rightful place as a sovereign state in the family of nations.</p>
+      <p class="pr">May God protect our people.</p>
+      <p class="pr">Nkosi Sikelel’ iAfrika. Morena boloka setjhaba sa heso. <eol/>God seën Suid-Afrika. God bless South Africa. <eol/>Mudzimu fhatutshedza Afurika. Hosi katekisa Afrika.<eop number="3"/></p>
+    </preamble>
+    <body xml:lang="en">
+      <chapter eId="chp_2" GUID="02B2155D-08DB-43C8-BCA8-99AF0615C9DB"><num>Chapter 2</num><heading>Bill of Rights</heading>
+        <section eId="sec_7" GUID="3C5FEC49-E7E6-49E5-9FA7-89488B9CA389"><num>7.</num><heading>Rights</heading>
+          <subsection eId="sec_7__subsec_1" GUID="4A51CC5F-0ED4-43D6-BE61-956F8C23CB90"><num>(1)</num>
+            <content><p>This Bill of Rights is a cornerstone of democracy in South Africa. <eol/>It enshrines the rights of all people in our country and affirms the <eol/>democratic values of human dignity, equality and freedom.</p></content>
+          </subsection>
+          <subsection eId="sec_7__subsec_2" GUID="267E600C-7B53-4125-9D45-5916A680878E"><num>(2)</num>
+            <content><p>The state must respect, protect, promote and fulfil the rights in the <eol/>Bill of Rights.</p></content>
+          </subsection>
+          <subsection eId="sec_7__subsec_3" GUID="0E50CE40-FF08-4938-B430-3A3AA322ED4A"><num>(3)</num>
+            <content><p>The rights in the Bill of Rights are subject to the limitations <eol/>contained or referred to in section <ref href="#sec_36">36</ref>, or elsewhere in the Bill.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_8" GUID="9EB1EE2B-A5F6-483B-9730-DB05624F3916"><num>8.</num><heading>Application</heading>
+          <subsection eId="sec_8__subsec_1" GUID="4D19DD58-BC45-4877-920B-38F6D32B9DC3"><num>(1)</num>
+            <content><p>The Bill of Rights applies to all law, and binds the legislature, the <eol/>executive, the judiciary and all organs of state.</p></content>
+          </subsection>
+          <subsection eId="sec_8__subsec_2" GUID="4A397EF9-F905-4D0A-8B32-798DCD735AA8"><num>(2)</num>
+            <content><p>A provision of the Bill of Rights binds a natural or a juristic <eol/>person if, and to the extent that, it is applicable, taking into <eol/>account the nature of the right and the nature of any duty imposed <eol/>by the right.</p></content>
+          </subsection>
+          <subsection eId="sec_8__subsec_3" GUID="ACB4761B-224F-4C4F-979D-37D9360972FE"><num>(3)</num>
+            <intro><p>When applying a provision of the Bill of Rights to a natural or <eol/>juristic person in terms of subsection <ref href="#sec_8__subsec_2">(2)</ref>, a court –</p></intro>
+            <list eId="sec_8__subsec_3__list_1" GUID="513FF5DC-64BF-4F4C-8C58-FA4A1AD59C95">
+              <point eId="sec_8__subsec_3__list_1__point_a" GUID="1DD7B133-27C1-47D6-9D5E-6627D27B839E"><num>(a)</num><content><p>in order to give effect to a right in the Bill, must apply, or if <eol/>necessary develop, the common law to the extent that <eol/>legislation does not give effect to that right; and</p></content></point>
+              <point eId="sec_8__subsec_3__list_1__point_b" GUID="8EA1ACE1-7780-494F-B6D5-3CF4ED8DB82C"><num>(b)</num><content><p>may develop rules of the common law to limit the right, <eol/>provided that the limitation is in accordance with section <eol/><ref href="#sec_36__subsec_1">36(1)</ref>.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_8__subsec_4" GUID="E9041180-90D0-439E-A944-1F0620DCAFDC"><num>(4)</num>
+            <content><p>A juristic person is entitled to the rights in the Bill of Rights to the <eol/>extent required by the nature of the rights and the nature of that <eol/>juristic person.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_9" GUID="EFFA3760-641A-4CA2-993C-CF791DDC2F2A"><num>9.</num><heading>Equality</heading>
+          <subsection eId="sec_9__subsec_1" GUID="E6CB0D30-2F48-4FC2-B441-F4C3DBFC1404"><num>(1)</num>
+            <content><p>Everyone is equal before the law and has the right to equal <eol/>protection and benefit of the law.</p></content>
+          </subsection>
+          <subsection eId="sec_9__subsec_2" GUID="A0039FDF-1B5D-41D0-8B8B-295D9385D30A"><num>(2)</num>
+            <content><p>Equality includes the full and equal enjoyment of all rights and <eol/>freedoms. To promote the achievement of equality, legislative and <eol/>other measures designed to protect or advance persons, or <eol/>categories of persons, disadvantaged by unfair discrimination may <eol/>be taken.<eop number="7"/></p></content>
+          </subsection>
+          <subsection eId="sec_9__subsec_3" GUID="36F386CC-8D14-497D-BF7B-1996566D473B"><num>(3)</num>
+            <content><p>The state may not unfairly discriminate directly or indirectly <eol/>against anyone on one or more grounds, including race, gender, <eol/>sex, pregnancy, marital status, ethnic or social origin, colour, <eol/>sexual orientation, age, disability, religion, conscience, belief, <eol/>culture, language and birth.</p></content>
+          </subsection>
+          <subsection eId="sec_9__subsec_4" GUID="E288CE2A-6FF1-440E-9F6D-AD67FB01E0DB"><num>(4)</num>
+            <content><p>No person may unfairly discriminate directly or indirectly against <eol/>anyone on one or more grounds in terms of subsection <ref href="#sec_9__subsec_3">(3)</ref>. <eol/>National legislation must be enacted to prevent or prohibit unfair <eol/>discrimination.</p></content>
+          </subsection>
+          <subsection eId="sec_9__subsec_5" GUID="101A9433-4CD4-4E65-AE09-37516BD8C733"><num>(5)</num>
+            <content><p>Discrimination on one or more of the grounds listed in subsection <eol/><ref href="#sec_9__subsec_3">(3)</ref> is unfair unless it is established that the discrimination is fair.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_10" GUID="45A29A17-5713-41AF-BD8C-94632D66F9A2"><num>10.</num><heading>Human dignity</heading>
+          <content><p>Everyone has inherent dignity and the right to have their dignity <eol/>respected and protected.</p></content>
+        </section>
+        <section eId="sec_11" GUID="CECC3F02-18E3-4CE8-A1CF-57AE90A0A167"><num>11.</num><heading>Life</heading>
+          <content><p>Everyone has the right to life.</p></content>
+        </section>
+        <section eId="sec_12" GUID="F9FD1A72-7B4C-4A7F-80ED-D9A570D62FC8"><num>12.</num><heading>Freedom and security of the person</heading>
+          <subsection eId="sec_12__subsec_1" GUID="F5117285-EF1B-4396-B7A6-2D3C3ADB91E1"><num>(1)</num>
+            <intro><p>Everyone has the right to freedom and security of the person, <eol/>which includes the right –</p></intro>
+            <list eId="sec_12__subsec_1__list_1" GUID="4981927E-D688-493D-A716-66D280C785A8">
+              <point eId="sec_12__subsec_1__list_1__point_a" GUID="A301BABB-6E5D-4FBE-A483-7C8F885A75F4"><num>(a)</num><content><p>not to be deprived of freedom arbitrarily or without just <eol/>cause;</p></content></point>
+              <point eId="sec_12__subsec_1__list_1__point_b" GUID="7E1A4D46-7593-4DCC-BAEE-C9FDAC8EEF35"><num>(b)</num><content><p>not to be detained without trial;</p></content></point>
+              <point eId="sec_12__subsec_1__list_1__point_c" GUID="7C563EC9-C2EC-4DC2-AED8-D41E70FCB71E"><num>(c)</num><content><p>to be free from all forms of violence from either public or <eol/>private sources;</p></content></point>
+              <point eId="sec_12__subsec_1__list_1__point_d" GUID="F434EE66-9D1D-4FB5-8AFF-DC3D5F3A5C0C"><num>(d)</num><content><p>not to be tortured in any way; and</p></content></point>
+              <point eId="sec_12__subsec_1__list_1__point_e" GUID="54A4515C-2F61-4151-B707-B36B4AC32543"><num>(e)</num><content><p>not to be treated or punished in a cruel, inhuman or <eol/>degrading way.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_12__subsec_2" GUID="6327B8F9-8784-4BE0-8DC7-518D18B48523"><num>(2)</num>
+            <intro><p>Everyone has the right to bodily and psychological integrity, which <eol/>includes the right –</p></intro>
+            <list eId="sec_12__subsec_2__list_1" GUID="5A5389C9-083C-4E94-AE94-7A4D31755D03">
+              <point eId="sec_12__subsec_2__list_1__point_a" GUID="C19F8AD4-F5C6-41A4-9DA6-668E29B28B75"><num>(a)</num><content><p>to make decisions concerning reproduction;</p></content></point>
+              <point eId="sec_12__subsec_2__list_1__point_b" GUID="83E15FCF-F241-4B5B-B897-6310EA8AF910"><num>(b)</num><content><p>to security in and control over their body; and</p></content></point>
+              <point eId="sec_12__subsec_2__list_1__point_c" GUID="F4F034A7-320B-40C3-B968-4EFB0B3F45C7"><num>(c)</num><content><p>not to be subjected to medical or scientific experiments <eol/>without their informed consent.</p></content></point>
+            </list>
+          </subsection>
+        </section>
+        <section eId="sec_13" GUID="C5A23C64-6883-423D-9EFA-D40C7BD5EA71"><num>13.</num><heading>Slavery, servitude and forced labour</heading>
+          <content><p>No one may be subjected to slavery, servitude or forced labour.</p></content>
+        </section>
+        <section eId="sec_14" GUID="BEF11B20-22A5-4825-927B-6398D905FEA8"><num>14.</num><heading>Privacy</heading>
+          <intro><p>Everyone has the right to privacy, which includes the right not to have –</p></intro>
+          <list eId="sec_14__list_1" GUID="02C904E6-A084-4D86-A865-4CA914042C78">
+            <point eId="sec_14__list_1__point_a" GUID="73CF8F3C-2E17-4C8A-8FA8-02E3BFDE297A"><num>(a)</num><content><p>their person or home searched;</p></content></point>
+            <point eId="sec_14__list_1__point_b" GUID="5FCCBE49-F18D-414E-9E28-45A672C3E229"><num>(b)</num><content><p>their property searched;</p></content></point>
+            <point eId="sec_14__list_1__point_c" GUID="1EC321EF-A3D5-4741-9F26-C168553786FA"><num>(c)</num><content><p>their possessions seized; or</p></content></point>
+            <point eId="sec_14__list_1__point_d" GUID="72E6D32C-29A9-403C-A48F-1ED0AA78C55E"><num>(d)</num><content><p>the privacy of their communications infringed.<eop number="8"/></p></content></point>
+          </list>
+        </section>
+        <section eId="sec_15" GUID="D452DF43-C001-4F11-8D8B-1219B0F1D5EA"><num>15.</num><heading>Freedom of religion, belief and opinion</heading>
+          <subsection eId="sec_15__subsec_1" GUID="533233B0-BCBF-432F-BC94-029841CA943C"><num>(1)</num>
+            <content><p>Everyone has the right to freedom of conscience, religion, thought, <eol/>belief and opinion.</p></content>
+          </subsection>
+          <subsection eId="sec_15__subsec_2" GUID="97238C3B-6F06-4CCF-8F7C-F1CED306D261"><num>(2)</num>
+            <intro><p>Religious observances may be conducted at state or state-aided <eol/>institutions, provided that –</p></intro>
+            <list eId="sec_15__subsec_2__list_1" GUID="6F29B93B-1193-45E0-9DA7-D8C0CBEF8834">
+              <point eId="sec_15__subsec_2__list_1__point_a" GUID="F77BEDA7-C52F-4298-8F69-23DAA92D5FBB"><num>(a)</num><content><p>those observances follow rules made by the appropriate <eol/>public authorities;</p></content></point>
+              <point eId="sec_15__subsec_2__list_1__point_b" GUID="0A5466F1-83AF-4770-BE79-C6832444A1E0"><num>(b)</num><content><p>they are conducted on an equitable basis; and</p></content></point>
+              <point eId="sec_15__subsec_2__list_1__point_c" GUID="2384F4BF-0E05-41C7-8327-FA4C65539D95"><num>(c)</num><content><p>attendance at them is free and voluntary.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_15__subsec_3" GUID="BCF63B18-20F2-450C-B371-19A953228087"><num>(3)</num>
+            <list eId="sec_15__subsec_3__list_1" GUID="E0920A90-552A-48DB-B024-21C9E24818A8">
+              <point eId="sec_15__subsec_3__list_1__point_a" GUID="61029157-C839-4A3A-8D4F-26071C4EB046"><num>(a)</num><intro><p>This section does not prevent legislation recognising –</p></intro>
+                <list eId="sec_15__subsec_3__list_1__point_a__list_1" GUID="8EDE5412-EA5E-42E6-B031-DF2D2963FA20">
+                  <point eId="sec_15__subsec_3__list_1__point_a__list_1__point_i" GUID="012C674F-6002-412E-9915-DDFF7FE4FD5F"><num>(i)</num><content><p>marriages concluded under any tradition, or a system of <eol/>religious, personal or family law; or</p></content></point>
+                  <point eId="sec_15__subsec_3__list_1__point_a__list_1__point_ii" GUID="7C4A84F4-F748-4129-9A0E-A8C099C4777C"><num>(ii)</num><content><p>systems of personal and family law under any tradition, <eol/>or adhered to by persons professing a particular religion.</p></content></point>
+                </list></point>
+              <point eId="sec_15__subsec_3__list_1__point_b" GUID="E2177B9A-7201-4F61-92C4-39B5EAAAE209"><num>(b)</num><content><p>Recognition in terms of paragraph (a) must be consistent with <eol/>this section and the other provisions of the Constitution.</p></content></point>
+            </list>
+          </subsection>
+        </section>
+        <section eId="sec_16" GUID="F8444BD4-86FE-475C-951A-A8F661954889"><num>16.</num><heading>Freedom of expression</heading>
+          <subsection eId="sec_16__subsec_1" GUID="485217C1-4644-4774-B069-4FCACB1A169E"><num>(1)</num>
+            <intro><p>Everyone has the right to freedom of expression, which includes –</p></intro>
+            <list eId="sec_16__subsec_1__list_1" GUID="A2CFCC7B-C9F4-45AB-BAAE-235608DFFCD3">
+              <point eId="sec_16__subsec_1__list_1__point_a" GUID="766A8634-1673-47B0-ACE4-8E6EAB297FAD"><num>(a)</num><content><p>freedom of the press and other media;</p></content></point>
+              <point eId="sec_16__subsec_1__list_1__point_b" GUID="258D70FD-FEF6-42B2-9543-26763C2E5261"><num>(b)</num><content><p>freedom to receive or impart information or ideas;</p></content></point>
+              <point eId="sec_16__subsec_1__list_1__point_c" GUID="50FB1ACE-0AC2-4B2E-BC00-4D25805AEBCA"><num>(c)</num><content><p>freedom of artistic creativity; and</p></content></point>
+              <point eId="sec_16__subsec_1__list_1__point_d" GUID="84A413D4-BDF8-4805-9018-7EEB670CD9F1"><num>(d)</num><content><p>academic freedom and freedom of scientific research.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_16__subsec_2" GUID="D71269B3-CFDF-4B39-897D-B7E9316A91C1"><num>(2)</num>
+            <intro><p>The right in subsection <ref href="#sec_16__subsec_1">(1)</ref> does not extend to –</p></intro>
+            <list eId="sec_16__subsec_2__list_1" GUID="D3DE885F-3503-44E7-9DEB-4AE5E70F70ED">
+              <point eId="sec_16__subsec_2__list_1__point_a" GUID="FD96F209-7B9A-4A15-A73F-8C6F3353DE14"><num>(a)</num><content><p>propaganda for war;</p></content></point>
+              <point eId="sec_16__subsec_2__list_1__point_b" GUID="DA0A2982-98AA-4115-931D-72327C35986F"><num>(b)</num><content><p>incitement of imminent violence; or</p></content></point>
+              <point eId="sec_16__subsec_2__list_1__point_c" GUID="51C190D9-06B6-48DC-B14E-5B0BFDA7A289"><num>(c)</num><content><p>advocacy of hatred that is based on race, ethnicity, gender or <eol/>religion, and that constitutes incitement to cause harm.</p></content></point>
+            </list>
+          </subsection>
+        </section>
+        <section eId="sec_17" GUID="25C99E2A-0FC3-43F2-8567-A37DCCD6BC91"><num>17.</num><heading>Assembly, demonstration, picket and petition</heading>
+          <content><p>Everyone has the right, peacefully and unarmed, to assemble, to <eol/>demonstrate, to picket and to present petitions.</p></content>
+        </section>
+        <section eId="sec_18" GUID="F53DA207-71D0-4BF3-98AD-A75F2494A415"><num>18.</num><heading>Freedom of association</heading>
+          <content><p>Everyone has the right to freedom of association.</p></content>
+        </section>
+        <section eId="sec_19" GUID="45C22B15-2A9D-4E14-90A3-0860F7819DF7"><num>19.</num><heading>Political rights</heading>
+          <subsection eId="sec_19__subsec_1" GUID="D1EDF6D1-8E10-475F-9C14-737FACA5409E"><num>(1)</num>
+            <intro><p>Every citizen is free to make political choices, which includes the <eol/>right –</p></intro>
+            <list eId="sec_19__subsec_1__list_1" GUID="25D68EF9-CA1B-4523-8934-A574505C171C">
+              <point eId="sec_19__subsec_1__list_1__point_a" GUID="D8565B09-EC8E-4A4D-914A-5225D188082A"><num>(a)</num><content><p>to form a political party;</p></content></point>
+              <point eId="sec_19__subsec_1__list_1__point_b" GUID="04FDB2A9-FF56-4777-8E97-96857E0E0211"><num>(b)</num><content><p>to participate in the activities of, or recruit members for, a <eol/>political party; and</p></content></point>
+              <point eId="sec_19__subsec_1__list_1__point_c" GUID="172FB5AB-E37A-4A91-88F0-5D6C937015BF"><num>(c)</num><content><p>to campaign for a political party or cause.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_19__subsec_2" GUID="BEA45368-DFAA-4893-B748-C63890D04ADF"><num>(2)</num>
+            <content><p>Every citizen has the right to free, fair and regular elections for <eol/>any legislative body established in terms of the Constitution.</p></content>
+          </subsection>
+          <subsection eId="sec_19__subsec_3" GUID="104F9D62-8594-4D82-8189-549249992D64"><num>(3)</num>
+            <intro><p>Every adult citizen has the right –</p></intro>
+            <list eId="sec_19__subsec_3__list_1" GUID="02592F86-E4A4-46C6-81E1-DA7E5D0670F7">
+              <point eId="sec_19__subsec_3__list_1__point_a" GUID="28770F4B-30D3-4EDE-9A96-AD85A6769222"><num>(a)</num><content><p>to vote in elections for any legislative body established in <eop number="9"/>terms of the Constitution, and to do so in secret; and</p></content></point>
+              <point eId="sec_19__subsec_3__list_1__point_b" GUID="67A0B3AC-A4F2-4D99-8C33-17EE82959DED"><num>(b)</num><content><p>to stand for public office and, if elected, to hold office.</p></content></point>
+            </list>
+          </subsection>
+        </section>
+        <section eId="sec_20" GUID="2E1F21F4-D3E1-4952-A3F4-448010567149"><num>20.</num><heading>Citizenship</heading>
+          <content><p>No citizen may be deprived of citizenship.</p></content>
+        </section>
+        <section eId="sec_21" GUID="0436F1C4-2454-414F-9293-D06C346E4BBC"><num>21.</num><heading>Freedom of movement and residence</heading>
+          <subsection eId="sec_21__subsec_1" GUID="69858D39-AE98-4C69-9F5F-1E56903D9284"><num>(1)</num>
+            <content><p>Everyone has the right to freedom of movement.</p></content>
+          </subsection>
+          <subsection eId="sec_21__subsec_2" GUID="1547EF24-A7DE-4B74-871B-347DE64F1F81"><num>(2)</num>
+            <content><p>Everyone has the right to leave the Republic.</p></content>
+          </subsection>
+          <subsection eId="sec_21__subsec_3" GUID="C2D08DBF-0E7C-4FFF-A3FC-86D3A81AB834"><num>(3)</num>
+            <content><p>Every citizen has the right to enter, to remain in and to reside <eol/>anywhere in, the Republic.</p></content>
+          </subsection>
+          <subsection eId="sec_21__subsec_4" GUID="414FCA3F-EDDF-40B7-A7CF-3ADF586C93F7"><num>(4)</num>
+            <content><p>Every citizen has the right to a passport.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_22" GUID="0019E4C1-EAA1-4CC2-A17F-8E467E3465EA"><num>22.</num><heading>Freedom of trade, occupation and profession</heading>
+          <content><p>Every citizen has the right to choose their trade, occupation or <eol/>profession freely. The practice of a trade, occupation or profession may <eol/>be regulated by law.</p></content>
+        </section>
+        <section eId="sec_23" GUID="E549D6B8-84A4-4F09-A65E-41CA33EE0012"><num>23.</num><heading>Labour relations</heading>
+          <subsection eId="sec_23__subsec_1" GUID="ACF025CA-CEA5-49AE-A554-25BF842D0679"><num>(1)</num>
+            <content><p>Everyone has the right to fair labour practices.</p></content>
+          </subsection>
+          <subsection eId="sec_23__subsec_2" GUID="CED71C3A-5C8F-4771-9B5D-E11BCDF04E25"><num>(2)</num>
+            <intro><p>Every worker has the right –</p></intro>
+            <list eId="sec_23__subsec_2__list_1" GUID="1EF6AD91-2FA5-4951-A6FF-88627E0A234A">
+              <point eId="sec_23__subsec_2__list_1__point_a" GUID="99C531C2-793A-4C14-AE14-4C091DB02856"><num>(a)</num><content><p>to form and join a trade union;</p></content></point>
+              <point eId="sec_23__subsec_2__list_1__point_b" GUID="C617E817-F138-4DD5-B916-17C3544A3B00"><num>(b)</num><content><p>to participate in the activities and programmes of a trade <eol/>union; and</p></content></point>
+              <point eId="sec_23__subsec_2__list_1__point_c" GUID="D2D05789-8068-49C1-BE76-01DF07C5E3E3"><num>(c)</num><content><p>to strike.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_23__subsec_3" GUID="EF3AAF81-E18B-45C5-826C-4F1D0E16E0D4"><num>(3)</num>
+            <intro><p>Every employer has the right –</p></intro>
+            <list eId="sec_23__subsec_3__list_1" GUID="6C8E9A37-05AA-4C09-980B-D83990FEA388">
+              <point eId="sec_23__subsec_3__list_1__point_a" GUID="5A7D716E-60B5-40F4-97DB-7AAFC899B16B"><num>(a)</num><content><p>to form and join an employers’ organisation; and</p></content></point>
+              <point eId="sec_23__subsec_3__list_1__point_b" GUID="94FC0DCA-4C7B-4E1A-B935-43F307615AF6"><num>(b)</num><content><p>to participate in the activities and programmes of an <eol/>employers’ organisation.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_23__subsec_4" GUID="63E81CDF-FBA7-4C7A-B401-013F3F35050A"><num>(4)</num>
+            <intro><p>Every trade union and every employers’ organisation has the right –</p></intro>
+            <list eId="sec_23__subsec_4__list_1" GUID="CD8CB434-E56B-404D-B404-B37E6B18C526">
+              <point eId="sec_23__subsec_4__list_1__point_a" GUID="454B377C-07E0-4E9E-920F-03C7867CADF7"><num>(a)</num><content><p>to determine its own administration, programmes and activities;</p></content></point>
+              <point eId="sec_23__subsec_4__list_1__point_b" GUID="764DEAE4-B5E8-4668-A0EE-64F71B7A193C"><num>(b)</num><content><p>to organise; and</p></content></point>
+              <point eId="sec_23__subsec_4__list_1__point_c" GUID="A301F975-4D1D-447B-A0EE-07B2762B370E"><num>(c)</num><content><p>to form and join a federation.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_23__subsec_5" GUID="8B6CA999-35D6-4AA5-AD38-1BAB37D139F9"><num>(5)</num>
+            <content><p>Every trade union, employers’ organisation and employer has the <eol/>right to engage in collective bargaining. National legislation may <eol/>be enacted to regulate collective bargaining. To the extent that the <eol/>legislation may limit a right in this Chapter, the limitation must <eol/>comply with section <ref href="#sec_36__subsec_1">36(1)</ref>.</p></content>
+          </subsection>
+          <subsection eId="sec_23__subsec_6" GUID="02AB01CE-D0C5-4B7C-853C-DD8ACAB72C36"><num>(6)</num>
+            <content><p>National legislation may recognise union security arrangements <eol/>contained in collective agreements. To the extent that the <eol/>legislation may limit a right in this Chapter, the limitation must <eol/>comply with section <ref href="#sec_36__subsec_1">36(1)</ref>.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_24" GUID="870057E4-46D8-48F6-9427-316608576565"><num>24.</num><heading>Environment</heading>
+          <intro><p>Everyone has the right –</p></intro>
+          <list eId="sec_24__list_1" GUID="3A8ADE1C-AFB9-4B4C-8D8F-545171C7B21F">
+            <point eId="sec_24__list_1__point_a" GUID="41EAB3F4-365D-470E-833D-DA47A15272A2"><num>(a)</num><content><p>to an environment that is not harmful to their health or <eop number="10" breakAt="5"/>well-being; and</p></content></point>
+            <point eId="sec_24__list_1__point_b" GUID="111BD000-3276-42AA-AC3F-4274AA8142B0"><num>(b)</num><intro><p>to have the environment protected, for the benefit of present <eol/>and future generations, through reasonable legislative and <eol/>other measures that –</p></intro>
+              <list eId="sec_24__list_1__point_b__list_1" GUID="D3BE2B48-478C-4834-98FB-5C478D3F6E71">
+                <point eId="sec_24__list_1__point_b__list_1__point_i" GUID="019D86F0-0245-43ED-8597-DA096B926D88"><num>(i)</num><content><p>prevent pollution and ecological degradation;</p></content></point>
+                <point eId="sec_24__list_1__point_b__list_1__point_ii" GUID="F11D3BB6-A14A-4E2D-9394-14F4C35863F9"><num>(ii)</num><content><p>promote conservation; and</p></content></point>
+                <point eId="sec_24__list_1__point_b__list_1__point_iii" GUID="94F3F3BD-310B-467A-80A3-8FCF009294AF"><num>(iii)</num><content><p>secure ecologically sustainable development and use of <eol/>natural resources while promoting justifiable economic <eol/>and social development.</p></content></point>
+              </list></point>
+          </list>
+        </section>
+        <section eId="sec_25" GUID="63253E0F-C421-4AA0-B721-F02AA6550401"><num>25.</num><heading>Property</heading>
+          <subsection eId="sec_25__subsec_1" GUID="8A950A7A-ABE5-48C7-AFAA-A418DB70824C"><num>(1)</num>
+            <content><p>No one may be deprived of property except in terms of law of <eol/>general application, and no law may permit arbitrary deprivation <eol/>of property.</p></content>
+          </subsection>
+          <subsection eId="sec_25__subsec_2" GUID="F4305914-C763-483D-8DF1-A42A733DE180"><num>(2)</num>
+            <intro><p>Property may be expropriated only in terms of law of general <eol/>application –</p></intro>
+            <list eId="sec_25__subsec_2__list_1" GUID="873E2C6F-0286-412B-B45C-08F6BBCAF0F2">
+              <point eId="sec_25__subsec_2__list_1__point_a" GUID="38740E5F-17C0-46E3-AA05-3ADABDBAF251"><num>(a)</num><content><p>for a public purpose or in the public interest; and</p></content></point>
+              <point eId="sec_25__subsec_2__list_1__point_b" GUID="E93FE8BE-454A-4137-A2F6-8D8348E55D19"><num>(b)</num><content><p>subject to compensation, the amount of which and the time <eol/>and manner of payment of which have either been agreed to <eol/>by those affected or decided or approved by a court.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_25__subsec_3" GUID="70B87617-520F-42D9-81B9-8EDBFC99BF1D"><num>(3)</num>
+            <intro><p>The amount of the compensation and the time and manner of <eol/>payment must be just and equitable, reflecting an equitable <eol/>balance between the public interest and the interests of those <eol/>affected, having regard to all relevant circumstances, including –</p></intro>
+            <list eId="sec_25__subsec_3__list_1" GUID="4BF32D19-1A6B-4607-B25B-6D4ECFDD5B79">
+              <point eId="sec_25__subsec_3__list_1__point_a" GUID="207EF8E6-D133-4BBC-B0E9-E171C8D097A8"><num>(a)</num><content><p>the current use of the property;</p></content></point>
+              <point eId="sec_25__subsec_3__list_1__point_b" GUID="748C88C8-B0DF-4C55-94F9-5B59585959E3"><num>(b)</num><content><p>the history of the acquisition and use of the property;</p></content></point>
+              <point eId="sec_25__subsec_3__list_1__point_c" GUID="051C348B-C133-427B-8C3C-8C08EF18D09E"><num>(c)</num><content><p>the market value of the property;</p></content></point>
+              <point eId="sec_25__subsec_3__list_1__point_d" GUID="AFABDC6A-2B0E-4594-8366-88F8A999F375"><num>(d)</num><content><p>the extent of direct state investment and subsidy in the <eol/>acquisition and beneficial capital improvement of the <eol/>property; and</p></content></point>
+              <point eId="sec_25__subsec_3__list_1__point_e" GUID="527D325C-728B-4C6A-A3AE-13D737FEB7BC"><num>(e)</num><content><p>the purpose of the expropriation.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_25__subsec_4" GUID="89761EAE-4983-4229-8140-930C43E7391B"><num>(4)</num>
+            <intro><p>For the purposes of this section –</p></intro>
+            <list eId="sec_25__subsec_4__list_1" GUID="7EAAA3ED-4019-4A79-967B-07032CDEA4F4">
+              <point eId="sec_25__subsec_4__list_1__point_a" GUID="7000C82F-3D81-44E4-A063-F8E91205009E"><num>(a)</num><content><p>the public interest includes the nation’s commitment to land <eol/>reform, and to reforms to bring about equitable access to all <eol/>South Africa’s natural resources; and</p></content></point>
+              <point eId="sec_25__subsec_4__list_1__point_b" GUID="1406F269-3DCA-42B5-B889-C4F7DDF36F82"><num>(b)</num><content><p>property is not limited to land.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_25__subsec_5" GUID="8E69F71C-D6A8-4F68-AC1F-14BCE42F5D99"><num>(5)</num>
+            <content><p>The state must take reasonable legislative and other measures, <eol/>within its available resources, to foster conditions which enable <eol/>citizens to gain access to land on an equitable basis.</p></content>
+          </subsection>
+          <subsection eId="sec_25__subsec_6" GUID="1FDD4649-BD28-4270-8F34-7F7BFFF5C58C"><num>(6)</num>
+            <content><p>A person or community whose tenure of land is legally insecure as <eol/>a result of past racially discriminatory laws or practices is entitled, <eol/>to the extent provided by an Act of Parliament, either to tenure <eol/>which is legally secure or to comparable redress.</p></content>
+          </subsection>
+          <subsection eId="sec_25__subsec_7" GUID="06EB7380-503B-4C69-AE1F-B08F23BAD588"><num>(7)</num>
+            <content><p>A person or community dispossessed of property after 19 June <eol/>1913 as a result of past racially discriminatory laws or practices is <eop number="11"/>entitled, to the extent provided by an Act of Parliament, either to <eol/>restitution of that property or to equitable redress.</p></content>
+          </subsection>
+          <subsection eId="sec_25__subsec_8" GUID="8B987595-3938-4989-A3EF-93CB650898EF"><num>(8)</num>
+            <content><p>No provision of this section may impede the state from taking <eol/>legislative and other measures to achieve land, water and related <eol/>reform, in order to redress the results of past racial discrimination, <eol/>provided that any departure from the provisions of this section is <eol/>in accordance with the provisions of section <ref href="#sec_36__subsec_1">36(1)</ref>.</p></content>
+          </subsection>
+          <subsection eId="sec_25__subsec_9" GUID="7483DCAF-BF90-48BF-8D5A-8D3B305D0CCE"><num>(9)</num>
+            <content><p>Parliament must enact the legislation referred to in subsection <ref href="#sec_25__subsec_6">(6)</ref>.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_26" GUID="7117CDB1-E463-4798-AE01-76A0EF717201"><num>26.</num><heading>Housing</heading>
+          <subsection eId="sec_26__subsec_1" GUID="B25F1186-B530-4EC6-87A2-4BBF3654D9B2"><num>(1)</num>
+            <content><p>Everyone has the right to have access to adequate housing.</p></content>
+          </subsection>
+          <subsection eId="sec_26__subsec_2" GUID="A00F022C-F2C5-486B-96AD-61167396C57F"><num>(2)</num>
+            <content><p>The state must take reasonable legislative and other measures, <eol/>within its available resources, to achieve the progressive realisation <eol/>of this right.</p></content>
+          </subsection>
+          <subsection eId="sec_26__subsec_3" GUID="B924705F-15F5-42C7-92AE-727EA3B9B9F4"><num>(3)</num>
+            <content><p>No one may be evicted from their home, or have their home <eol/>demolished, without an order of court made after considering all <eol/>the relevant circumstances. No legislation may permit arbitrary <eol/>evictions.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_27" GUID="9625B366-04C9-4721-88BD-4278C9EF7A3E"><num>27.</num><heading>Health care, food, water and social security</heading>
+          <subsection eId="sec_27__subsec_1" GUID="94E2EF96-C6AF-485D-BEFD-E0FCBD2EBCE1"><num>(1)</num>
+            <intro><p>Everyone has the right to have access to –</p></intro>
+            <list eId="sec_27__subsec_1__list_1" GUID="3E88B394-AB89-4FE1-A1A9-C8AD5FBA12C8">
+              <point eId="sec_27__subsec_1__list_1__point_a" GUID="F9589232-05AB-4865-A008-4BBF55342730"><num>(a)</num><content><p>health care services, including reproductive health care;</p></content></point>
+              <point eId="sec_27__subsec_1__list_1__point_b" GUID="0DD39682-523A-495F-A191-F2586DD53558"><num>(b)</num><content><p>sufficient food and water; and</p></content></point>
+              <point eId="sec_27__subsec_1__list_1__point_c" GUID="D2A9693D-14D4-41BA-B0C4-7DC5AECA272B"><num>(c)</num><content><p>social security, including, if they are unable to support themselves <eol/>and their dependants, appropriate social assistance.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_27__subsec_2" GUID="F7AFF16B-6B91-419D-A7AE-26EB55657951"><num>(2)</num>
+            <content><p>The state must take reasonable legislative and other measures, <eol/>within its available resources, to achieve the progressive realisation <eol/>of each of these rights.</p></content>
+          </subsection>
+          <subsection eId="sec_27__subsec_3" GUID="EFE9DFD9-6DB3-46F8-9AEF-4A4154FB6877"><num>(3)</num>
+            <content><p>No one may be refused emergency medical treatment.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_28" GUID="2CAB6E5C-525C-43FB-8D11-E218FF97BB84"><num>28.</num><heading>Children</heading>
+          <subsection eId="sec_28__subsec_1" GUID="038B143B-71FA-4CD5-ABF0-4F717AE28DF5"><num>(1)</num>
+            <intro><p>Every child has the right –</p></intro>
+            <list eId="sec_28__subsec_1__list_1" GUID="BAC12972-7BDF-4EEA-894F-50CF62C41AF6">
+              <point eId="sec_28__subsec_1__list_1__point_a" GUID="D591E569-5A44-4082-9B2A-06D56D4E790C"><num>(a)</num><content><p>to a name and a nationality from birth;</p></content></point>
+              <point eId="sec_28__subsec_1__list_1__point_b" GUID="CD89B724-4903-42BD-9C0D-4AFC3D8CD25B"><num>(b)</num><content><p>to family care or parental care, or to appropriate alternative <eol/>care when removed from the family environment;</p></content></point>
+              <point eId="sec_28__subsec_1__list_1__point_c" GUID="DB09D11A-D257-4B6C-A10F-E981F34501FD"><num>(c)</num><content><p>to basic nutrition, shelter, basic health care services and social <eol/>services;</p></content></point>
+              <point eId="sec_28__subsec_1__list_1__point_d" GUID="C57B8FBE-EE0B-4940-8854-12C8D0FFE5DB"><num>(d)</num><content><p>to be protected from maltreatment, neglect, abuse or <eol/>degradation;</p></content></point>
+              <point eId="sec_28__subsec_1__list_1__point_e" GUID="3ABF3097-A532-4B80-BE33-34AFF53047F4"><num>(e)</num><content><p>to be protected from exploitative labour practices;</p></content></point>
+              <point eId="sec_28__subsec_1__list_1__point_f" GUID="E6E508AD-8906-41AF-B525-437E65102213"><num>(f)</num><intro><p>not to be required or permitted to perform work or provide <eol/>services that –</p></intro>
+                <list eId="sec_28__subsec_1__list_1__point_f__list_1" GUID="166D6CBA-EC06-4E77-AAA2-8E19839A7ED7">
+                  <point eId="sec_28__subsec_1__list_1__point_f__list_1__point_i" GUID="2DF80B67-870C-4346-884F-5735A3DBF1EE"><num>(i)</num><content><p>are inappropriate for a person of that child’s age; or</p></content></point>
+                  <point eId="sec_28__subsec_1__list_1__point_f__list_1__point_ii" GUID="2F8B27C4-ECB1-4749-A635-F89CB174418E"><num>(ii)</num><content><p>place at risk the child’s well-being, education, physical or <eol/>mental health or spiritual, moral or social development;</p></content></point>
+                </list></point>
+              <point eId="sec_28__subsec_1__list_1__point_g" GUID="409D34F6-D53B-4F9B-BB7A-CA45018EE686"><num>(g)</num><intro><p>not to be detained except as a measure of last resort, in which <eop number="12"/>case, in addition to the rights a child enjoys under sections <ref href="#sec_12">12</ref> <eol/>and <ref href="#sec_35">35</ref>, the child may be detained only for the shortest <eol/>appropriate period of time, and has the right to be –</p></intro>
+                <list eId="sec_28__subsec_1__list_1__point_g__list_1" GUID="2CD0173D-7492-4D19-A74A-C0E3D7ADF245">
+                  <point eId="sec_28__subsec_1__list_1__point_g__list_1__point_i" GUID="80FCF9AB-C763-412D-A728-CA48492FBA79"><num>(i)</num><content><p>kept separately from detained persons over the age of 18 <eol/>years; and</p></content></point>
+                  <point eId="sec_28__subsec_1__list_1__point_g__list_1__point_ii" GUID="EF95F921-2C95-4426-B5C5-BBF7A7D6B112"><num>(ii)</num><content><p>treated in a manner, and kept in conditions, that take <eol/>account of the child’s age;</p></content></point>
+                </list></point>
+              <point eId="sec_28__subsec_1__list_1__point_h" GUID="FCD8F0ED-427D-4D29-88C0-F519A356AC54"><num>(h)</num><content><p>to have a legal practitioner assigned to the child by the state, <eol/>and at state expense, in civil proceedings affecting the child, if <eol/>substantial injustice would otherwise result; and</p></content></point>
+              <point eId="sec_28__subsec_1__list_1__point_i" GUID="AC9AB0F6-8748-40FD-8554-FBEE908EA5BF"><num>(i)</num><content><p>not to be used directly in armed conflict, and to be protected <eol/>in times of armed conflict.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_28__subsec_2" GUID="85A71C18-E006-48B7-8E8B-1ED3CA606773"><num>(2)</num>
+            <content><p>A child’s best interests are of paramount importance in every <eol/>matter concerning the child.</p></content>
+          </subsection>
+          <subsection eId="sec_28__subsec_3" GUID="0C195987-6273-4D77-9316-34100BC41C52"><num>(3)</num>
+            <content><p>In this section “child” means a person under the age of 18 years.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_29" GUID="7642B702-E170-4758-B3F9-4D36363B962E"><num>29.</num><heading>Education</heading>
+          <subsection eId="sec_29__subsec_1" GUID="92A6755D-8C8C-486F-A1CA-DEADC05F30ED"><num>(1)</num>
+            <intro><p>Everyone has the right –</p></intro>
+            <list eId="sec_29__subsec_1__list_1" GUID="F1E9906B-BAA3-4C07-A070-693963D95DB5">
+              <point eId="sec_29__subsec_1__list_1__point_a" GUID="303FB895-367F-4CD1-AB2F-2EBBCC1F9829"><num>(a)</num><content><p>to a basic education, including adult basic education; and</p></content></point>
+              <point eId="sec_29__subsec_1__list_1__point_b" GUID="B5EF2DC9-0B68-4934-982A-9F078FE335D7"><num>(b)</num><content><p>to further education, which the state, through reasonable <eol/>measures, must make progressively available and accessible.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_29__subsec_2" GUID="F94967CE-A3A1-4DB1-B022-75F88BDD3CF4"><num>(2)</num>
+            <intro><p>Everyone has the right to receive education in the official language <eol/>or languages of their choice in public educational institutions <eol/>where that education is reasonably practicable. In order to ensure <eol/>the effective access to, and implementation of, this right, the state <eol/>must consider all reasonable educational alternatives, including <eol/>single medium institutions, taking into account –</p></intro>
+            <list eId="sec_29__subsec_2__list_1" GUID="23436522-3B67-4BF6-870C-D8E0C2647BB0">
+              <point eId="sec_29__subsec_2__list_1__point_a" GUID="80A1E63A-A2F7-4A92-A955-39F20CD33F66"><num>(a)</num><content><p>equity;</p></content></point>
+              <point eId="sec_29__subsec_2__list_1__point_b" GUID="D2BD6E33-0363-4B2F-87DE-920A151F514B"><num>(b)</num><content><p>practicability; and</p></content></point>
+              <point eId="sec_29__subsec_2__list_1__point_c" GUID="7A181DBF-55F7-4AC7-9DEB-6AB1904ED16B"><num>(c)</num><content><p>the need to redress the results of past racially discriminatory <eol/>laws and practices.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_29__subsec_3" GUID="CA63A982-8B99-499D-AD40-19752F5C8841"><num>(3)</num>
+            <intro><p>Everyone has the right to establish and maintain, at their own <eol/>expense, independent educational institutions that –</p></intro>
+            <list eId="sec_29__subsec_3__list_1" GUID="7D0EEA41-FF78-4926-84C7-EF8028D0CDDE">
+              <point eId="sec_29__subsec_3__list_1__point_a" GUID="0314EEA9-A6F0-402C-A543-94D7F4527F2D"><num>(a)</num><content><p>do not discriminate on the basis of race;</p></content></point>
+              <point eId="sec_29__subsec_3__list_1__point_b" GUID="ADF09EDE-666E-4285-92FA-C3B1625C50A3"><num>(b)</num><content><p>are registered with the state; and</p></content></point>
+              <point eId="sec_29__subsec_3__list_1__point_c" GUID="38E382C2-4D29-4478-BC49-B5F579F3636B"><num>(c)</num><content><p>maintain standards that are not inferior to standards at <eol/>comparable public educational institutions.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_29__subsec_4" GUID="5B1E1166-246E-4D8A-9B30-795A953228B6"><num>(4)</num>
+            <content><p>Subsection <ref href="#sec_29__subsec_3">(3)</ref> does not preclude state subsidies for independent <eol/>educational institutions.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_30" GUID="9E1ACAEE-63AE-424B-92FF-8E55A72671DB"><num>30.</num><heading>Language and culture</heading>
+          <content><p>Everyone has the right to use the language and to participate in the <eol/>cultural life of their choice, but no one exercising these rights may do <eol/>so in a manner inconsistent with any provision of the Bill of Rights.<eop number="13"/></p></content>
+        </section>
+        <section eId="sec_31" GUID="644DD3BA-6D9F-4C91-B685-8F34034E63E8"><num>31.</num><heading>Cultural, religious and linguistic communities</heading>
+          <subsection eId="sec_31__subsec_1" GUID="3DD73334-EF8C-49EE-847C-C404D58DB6D9"><num>(1)</num>
+            <intro><p>Persons belonging to a cultural, religious or linguistic community <eol/>may not be denied the right, with other members of that <eol/>community –</p></intro>
+            <list eId="sec_31__subsec_1__list_1" GUID="BC816F3D-EC2C-4CD3-BF3E-0480313AF043">
+              <point eId="sec_31__subsec_1__list_1__point_a" GUID="9A806953-588D-4C83-8DE0-C14F1EB658DA"><num>(a)</num><content><p>to enjoy their culture, practise their religion and use their <eol/>language; and</p></content></point>
+              <point eId="sec_31__subsec_1__list_1__point_b" GUID="670B39EF-27A5-410B-B871-BC4382FAAE4D"><num>(b)</num><content><p>to form, join and maintain cultural, religious and linguistic <eol/>associations and other organs of civil society.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_31__subsec_2" GUID="30B3DB33-0195-4704-8635-73FB0542A5E6"><num>(2)</num>
+            <content><p>The rights in subsection <ref href="#sec_31__subsec_1">(1)</ref> may not be exercised in a manner <eol/>inconsistent with any provision of the Bill of Rights.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_32" GUID="92178DFB-883D-4CDA-8629-D1EE06C00EC6"><num>32.</num><heading>Access to information</heading>
+          <subsection eId="sec_32__subsec_1" GUID="C6C4A7F4-A90A-4E47-8484-9764AAF4901E"><num>(1)</num>
+            <intro><p>Everyone has the right of access to –</p></intro>
+            <list eId="sec_32__subsec_1__list_1" GUID="670973DB-0187-4117-AAE1-80DCE650F264">
+              <point eId="sec_32__subsec_1__list_1__point_a" GUID="0DD9CF74-CB9E-42B1-9CD3-220B11248F6F"><num>(a)</num><content><p>any information held by the state; and</p></content></point>
+              <point eId="sec_32__subsec_1__list_1__point_b" GUID="17DBD637-95C7-4347-848A-990A2C7C985D"><num>(b)</num><content><p>any information that is held by another person and that is <eol/>required for the exercise or protection of any rights.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_32__subsec_2" GUID="53C16A74-2B74-41F7-8DB2-5D1BB2202D9F"><num>(2)</num>
+            <content><p>National legislation must be enacted to give effect to this right, <eol/>and may provide for reasonable measures to alleviate the <eol/>administrative and financial burden on the state.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_33" GUID="3CF1CE21-8DC2-42C5-8F02-CC509E603B97"><num>33.</num><heading>Just administrative action</heading>
+          <subsection eId="sec_33__subsec_1" GUID="39079819-77EB-4C74-BB9C-062BA83D6B6C"><num>(1)</num>
+            <content><p>Everyone has the right to administrative action that is lawful, <eol/>reasonable and procedurally fair.</p></content>
+          </subsection>
+          <subsection eId="sec_33__subsec_2" GUID="09B3F142-93BE-4EEB-8268-3E997F5FC5D4"><num>(2)</num>
+            <content><p>Everyone whose rights have been adversely affected by <eol/>administrative action has the right to be given written reasons.</p></content>
+          </subsection>
+          <subsection eId="sec_33__subsec_3" GUID="9F66B41F-DD0D-4046-B73E-92B535F7A7E4"><num>(3)</num>
+            <intro><p>National legislation must be enacted to give effect to these rights, <eol/>and must –</p></intro>
+            <list eId="sec_33__subsec_3__list_1" GUID="2191FD60-C5DE-414B-A037-C9239857611F">
+              <point eId="sec_33__subsec_3__list_1__point_a" GUID="6363DC1B-26F2-4C19-9B5F-D1D51D297F8F"><num>(a)</num><content><p>provide for the review of administrative action by a court or, <eol/>where appropriate, an independent and impartial tribunal;</p></content></point>
+              <point eId="sec_33__subsec_3__list_1__point_b" GUID="2048757D-112C-4610-803B-2A6A759B2B89"><num>(b)</num><content><p>impose a duty on the state to give effect to the rights in <eol/>subsections <ref href="#sec_33__subsec_1">(1)</ref> and (2); and</p></content></point>
+              <point eId="sec_33__subsec_3__list_1__point_c" GUID="0AB8559B-3ED8-4FA4-9252-4D42F35EBB7C"><num>(c)</num><content><p>promote an efficient administration.</p></content></point>
+            </list>
+          </subsection>
+        </section>
+        <section eId="sec_34" GUID="CC7EFAB1-10D9-49D1-8B77-718474FB248F"><num>34.</num><heading>Access to courts</heading>
+          <content><p>Everyone has the right to have any dispute that can be resolved by the <eol/>application of law decided in a fair public hearing before a court or, <eol/>where appropriate, another independent and impartial tribunal or <eol/>forum.</p></content>
+        </section>
+        <section eId="sec_35" GUID="DDE369B6-FC39-445D-99B9-DC21CA42CBE5"><num>35.</num><heading>Arrested, detained and accused persons</heading>
+          <subsection eId="sec_35__subsec_1" GUID="EFB5EB58-4CD7-41FB-ABC1-A46066B265BC"><num>(1)</num>
+            <intro><p>Everyone who is arrested for allegedly committing an offence has <eol/>the right –</p></intro>
+            <list eId="sec_35__subsec_1__list_1" GUID="2736D0F9-07E7-43CC-B53D-3FBEFD69EF75">
+              <point eId="sec_35__subsec_1__list_1__point_a" GUID="F80F336A-F8A2-4298-834D-CFE3CCBCD8F8"><num>(a)</num><content><p>to remain silent;</p></content></point>
+              <point eId="sec_35__subsec_1__list_1__point_b" GUID="0EF9A4E4-602F-4E03-B3BE-43E8C9201505"><num>(b)</num><intro><p>to be informed promptly –</p></intro>
+                <list eId="sec_35__subsec_1__list_1__point_b__list_1" GUID="6AF1E355-2922-44FB-A59C-0674716665F8">
+                  <point eId="sec_35__subsec_1__list_1__point_b__list_1__point_i" GUID="EBC78D66-27B4-489C-8C7F-2917A02D53BC"><num>(i)</num><content><p>of the right to remain silent; and</p></content></point>
+                  <point eId="sec_35__subsec_1__list_1__point_b__list_1__point_ii" GUID="60543599-6AEF-4507-B2F7-6CBF095E15C9"><num>(ii)</num><content><p>of the consequences of not remaining silent;</p></content></point>
+                </list></point>
+              <point eId="sec_35__subsec_1__list_1__point_c" GUID="6BF95D6D-8DAE-44B1-9FF0-D084059DB23E"><num>(c)</num><content><p>not to be compelled to make any confession or admission that <eop number="14"/>could be used in evidence against that person;</p></content></point>
+              <point eId="sec_35__subsec_1__list_1__point_d" GUID="01C9A012-E3A6-40DB-B2D3-C23643CBBDBA"><num>(d)</num><intro><p>to be brought before a court as soon as reasonably possible, <eol/>but not later than –</p></intro>
+                <list eId="sec_35__subsec_1__list_1__point_d__list_1" GUID="FA8FB7DF-935B-44FD-9B24-3E93FCD3483F">
+                  <point eId="sec_35__subsec_1__list_1__point_d__list_1__point_i" GUID="68968C04-52FF-4217-B2AD-A267028F124C"><num>(i)</num><content><p>48 hours after the arrest; or</p></content></point>
+                  <point eId="sec_35__subsec_1__list_1__point_d__list_1__point_ii" GUID="0A9C7295-8EDE-41BF-8F22-15B50AD1B31C"><num>(ii)</num><content><p>the end of the first court day after the expiry of the 48 <eol/>hours, if the 48 hours expire outside ordinary court <eol/>hours or on a day which is not an ordinary court day;</p></content></point>
+                </list></point>
+              <point eId="sec_35__subsec_1__list_1__point_e" GUID="1ECD4C29-040A-4ADB-83E4-FE836F69CC47"><num>(e)</num><content><p>at the first court appearance after being arrested, to be <eol/>charged or to be informed of the reason for the detention to <eol/>continue, or to be released; and</p></content></point>
+              <point eId="sec_35__subsec_1__list_1__point_f" GUID="2ADE3C30-3FE7-410A-860C-47F5983AE6D2"><num>(f)</num><content><p>to be released from detention if the interests of justice permit, <eol/>subject to reasonable conditions.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_35__subsec_2" GUID="F26E7CAA-8FF5-4B0D-9FEF-2B801BCA1955"><num>(2)</num>
+            <intro><p>Everyone who is detained, including every sentenced prisoner, has <eol/>the right –</p></intro>
+            <list eId="sec_35__subsec_2__list_1" GUID="AC8458CD-375B-493F-B7A6-610725DE285C">
+              <point eId="sec_35__subsec_2__list_1__point_a" GUID="3840D5EE-0816-468E-9331-E5E949CAC1A5"><num>(a)</num><content><p>to be informed promptly of the reason for being detained;</p></content></point>
+              <point eId="sec_35__subsec_2__list_1__point_b" GUID="FFD4FC76-DE18-4307-A779-9AD0D99C36D1"><num>(b)</num><content><p>to choose, and to consult with, a legal practitioner, and to be <eol/>informed of this right promptly;</p></content></point>
+              <point eId="sec_35__subsec_2__list_1__point_c" GUID="2656208B-8CB4-4DE6-8310-92805B5969F8"><num>(c)</num><content><p>to have a legal practitioner assigned to the detained person by <eol/>the state and at state expense, if substantial injustice would <eol/>otherwise result, and to be informed of this right promptly;</p></content></point>
+              <point eId="sec_35__subsec_2__list_1__point_d" GUID="2B260FAA-772C-4E1A-9B22-99BF2BBA30D5"><num>(d)</num><content><p>to challenge the lawfulness of the detention in person before a <eol/>court and, if the detention is unlawful, to be released;</p></content></point>
+              <point eId="sec_35__subsec_2__list_1__point_e" GUID="6975020B-B491-4381-808E-9540DFE8C68C"><num>(e)</num><content><p>to conditions of detention that are consistent with human <eol/>dignity, including at least exercise and the provision, at state <eol/>expense, of adequate accommodation, nutrition, reading <eol/>material and medical treatment; and</p></content></point>
+              <point eId="sec_35__subsec_2__list_1__point_f" GUID="FE385CA7-98C8-4F44-9694-4A23D55C4E3C"><num>(f)</num><intro><p>to communicate with, and be visited by, that person’s –</p></intro>
+                <list eId="sec_35__subsec_2__list_1__point_f__list_1" GUID="B96E4E76-B244-4AFA-BA98-88BBDA6F3A77">
+                  <point eId="sec_35__subsec_2__list_1__point_f__list_1__point_i" GUID="217D6773-4A8F-4EAD-8CA5-229D35CB36DB"><num>(i)</num><content><p>spouse or partner;</p></content></point>
+                  <point eId="sec_35__subsec_2__list_1__point_f__list_1__point_ii" GUID="82F964F3-B7B0-486C-AEFD-3B0103730748"><num>(ii)</num><content><p>next of kin;</p></content></point>
+                  <point eId="sec_35__subsec_2__list_1__point_f__list_1__point_iii" GUID="8EA98E51-E5B2-4133-AB77-87C85B89DC33"><num>(iii)</num><content><p>chosen religious counsellor; and</p></content></point>
+                  <point eId="sec_35__subsec_2__list_1__point_f__list_1__point_iv" GUID="EB34FAD6-99EC-4997-8182-53A7FAF6EFC0"><num>(iv)</num><content><p>chosen medical practitioner.</p></content></point>
+                </list></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_35__subsec_3" GUID="29D25902-B0FC-41A3-B9E5-2B59A57C6B89"><num>(3)</num>
+            <intro><p>Every accused person has a right to a fair trial, which includes the <eol/>right –</p></intro>
+            <list eId="sec_35__subsec_3__list_1" GUID="6776282D-53F9-44B3-9071-47B3B66BC83F">
+              <point eId="sec_35__subsec_3__list_1__point_a" GUID="A8FAAEE5-D8B0-4196-A8B0-893035B0047E"><num>(a)</num><content><p>to be informed of the charge with sufficient detail to answer <eol/>it;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_b" GUID="39061BD6-CF56-45B3-BA49-ABECD43EF1D8"><num>(b)</num><content><p>to have adequate time and facilities to prepare a defence;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_c" GUID="7A670416-934A-4C9D-B1CF-795EA0D3FD2B"><num>(c)</num><content><p>to a public trial before an ordinary court;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_d" GUID="2B9D4507-0D9A-40A1-836E-B2465921A7C2"><num>(d)</num><content><p>to have their trial begin and conclude without unreasonable <eol/>delay;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_e" GUID="8388A245-2A03-4AE9-B0C1-FBCD6D0F73DD"><num>(e)</num><content><p>to be present when being tried;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_f" GUID="909481D4-6C84-414C-9619-189B5C4479A8"><num>(f)</num><content><p>to choose, and be represented by, a legal practitioner, and to <eol/>be informed of this right promptly;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_g" GUID="DDE36A95-A8FE-4EF2-85B5-95AC3E920167"><num>(g)</num><content><p>to have a legal practitioner assigned to the accused person by <eol/>the state and at state expense, if substantial injustice would <eol/>otherwise result, and to be informed of this right promptly;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_h" GUID="976DD31C-703F-4406-B545-8C0170122F3D"><num>(h)</num><content><p>to be presumed innocent, to remain silent, and not to testify <eol/>during the proceedings;<eop number="15"/></p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_i" GUID="FDED2C82-B62D-40D4-B901-151C5AADAB95"><num>(i)</num><content><p>to adduce and challenge evidence;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_j" GUID="DC6C509A-B311-4D27-B7E0-1BC2E9CC366D"><num>(j)</num><content><p>not to be compelled to give self-incriminating evidence;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_k" GUID="39B73AFD-A7C1-4780-B575-D1369C823CEA"><num>(k)</num><content><p>to be tried in a language that the accused person understands <eol/>or, if that is not practicable, to have the proceedings <eol/>interpreted in that language;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_l" GUID="9131774D-118E-4985-8BD8-F8187420E330"><num>(l)</num><content><p>not to be convicted for an act or omission that was not an <eol/>offence under either national or international law at the time <eol/>it was committed or omitted;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_m" GUID="A1C5004F-208E-4437-AB3C-1B785B0CBE6D"><num>(m)</num><content><p>not to be tried for an offence in respect of an act or omission <eol/>for which that person has previously been either acquitted or <eol/>convicted;</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_n" GUID="FACDC029-B058-4B81-9EC5-42F502319F32"><num>(n)</num><content><p>to the benefit of the least severe of the prescribed punishments <eol/>if the prescribed punishment for the offence has been changed <eol/>between the time that the offence was committed and the time <eol/>of sentencing; and</p></content></point>
+              <point eId="sec_35__subsec_3__list_1__point_o" GUID="577AB12C-149A-4704-8B0C-D0023842BD0E"><num>(o)</num><content><p>of appeal to, or review by, a higher court.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_35__subsec_4" GUID="20CD2EA7-0754-4096-8DF0-429E4C1715A4"><num>(4)</num>
+            <content><p>Whenever this section requires information to be given to a <eol/>person, that information must be given in a language that the <eol/>person understands.</p></content>
+          </subsection>
+          <subsection eId="sec_35__subsec_5" GUID="F7B606D2-8DC3-4955-9766-4D109A2476D4"><num>(5)</num>
+            <content><p>Evidence obtained in a manner that violates any right in the Bill of <eol/>Rights must be excluded if the admission of that evidence would <eol/>render the trial unfair or otherwise be detrimental to the <eol/>administration of justice.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_36" GUID="DA40A0C4-59BE-4CBD-B967-775D78D68E02"><num>36.</num><heading>Limitation of rights</heading>
+          <subsection eId="sec_36__subsec_1" GUID="01168F0C-2143-4FB4-A6A2-AA5698E71097"><num>(1)</num>
+            <intro><p>The rights in the Bill of Rights may be limited only in terms of law <eol/>of general application to the extent that the limitation is <eol/>reasonable and justifiable in an open and democratic society based <eol/>on human dignity, equality and freedom, taking into account all <eol/>relevant factors, including –</p></intro>
+            <list eId="sec_36__subsec_1__list_1" GUID="2DC23880-ED28-465C-BC4C-459AC92B065C">
+              <point eId="sec_36__subsec_1__list_1__point_a" GUID="9465E68A-F452-4990-94C3-1D5A27707FEE"><num>(a)</num><content><p>the nature of the right;</p></content></point>
+              <point eId="sec_36__subsec_1__list_1__point_b" GUID="4B47A7CD-5A00-477C-B05A-47EB88B7B768"><num>(b)</num><content><p>the importance of the purpose of the limitation;</p></content></point>
+              <point eId="sec_36__subsec_1__list_1__point_c" GUID="075B55D3-32B2-4989-8B47-E38D3777554E"><num>(c)</num><content><p>the nature and extent of the limitation;</p></content></point>
+              <point eId="sec_36__subsec_1__list_1__point_d" GUID="B8DEDAAA-2BC1-4417-8B43-D51E6D7310F0"><num>(d)</num><content><p>the relation between the limitation and its purpose; and</p></content></point>
+              <point eId="sec_36__subsec_1__list_1__point_e" GUID="D914E400-56C7-4944-B437-79D6A9AAD076"><num>(e)</num><content><p>less restrictive means to achieve the purpose.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_36__subsec_2" GUID="6030B8DC-4BDA-4AA9-990B-03B4D5163E2C"><num>(2)</num>
+            <content><p>Except as provided in subsection <ref href="#sec_36__subsec_1">(1)</ref> or in any other provision of <eol/>the Constitution, no law may limit any right entrenched in the Bill <eol/>of Rights.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_37" GUID="376CC10D-6D46-4B75-B50F-C53B6016AC8C"><num>37.</num><heading>States of emergency</heading>
+          <subsection eId="sec_37__subsec_1" GUID="897B0997-EAEA-4C0D-BB52-5C5757CD34DA"><num>(1)</num>
+            <intro><p>A state of emergency may be declared only in terms of an Act of <eol/>Parliament, and only when –</p></intro>
+            <list eId="sec_37__subsec_1__list_1" GUID="41B38762-7AD9-4BED-85F8-DFB57A83A0DD">
+              <point eId="sec_37__subsec_1__list_1__point_a" GUID="39D96E96-7952-486F-A89C-9D18CDDE0581"><num>(a)</num><content><p>the life of the nation is threatened by war, invasion, general <eol/>insurrection, disorder, natural disaster or other public <eol/>emergency; and</p></content></point>
+              <point eId="sec_37__subsec_1__list_1__point_b" GUID="C3951353-ECD3-4F6E-BF2F-451967926133"><num>(b)</num><content><p>the declaration is necessary to restore peace and order.<eop number="16"/></p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_37__subsec_2" GUID="DBDCFF4D-FCCE-426E-B9B9-8305F85975EE"><num>(2)</num>
+            <intro><p>A declaration of a state of emergency, and any legislation enacted <eol/>or other action taken in consequence of that declaration, may be <eol/>effective only –</p></intro>
+            <list eId="sec_37__subsec_2__list_1" GUID="521B7950-B118-4E70-8838-4C559D1B3C6A">
+              <point eId="sec_37__subsec_2__list_1__point_a" GUID="E8F3A2B2-6CB2-4526-A112-349DDC31CD2D"><num>(a)</num><content><p>prospectively; and</p></content></point>
+              <point eId="sec_37__subsec_2__list_1__point_b" GUID="39D60BE7-5086-4DDB-90DC-1DAE7D5839C4"><num>(b)</num><content><p>for no more than 21 days from the date of the declaration, <eol/>unless the National Assembly resolves to extend the <eol/>declaration. The Assembly may extend a declaration of a state <eol/>of emergency for no more than three months at a time. The <eol/>first extension of the state of emergency must be by a <eol/>resolution adopted with a supporting vote of a majority of the <eol/>members of the Assembly. Any subsequent extension must be <eol/>by a resolution adopted with a supporting vote of at least 60 <eol/>per cent of the members of the Assembly. A resolution in <eol/>terms of this paragraph may be adopted only following a <eol/>public debate in the Assembly.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_37__subsec_3" GUID="248DE828-9684-4998-B231-4EEA105AC357"><num>(3)</num>
+            <intro><p>Any competent court may decide on the validity of –</p></intro>
+            <list eId="sec_37__subsec_3__list_1" GUID="2CB6BA3C-F265-41FB-854C-D3676C048074">
+              <point eId="sec_37__subsec_3__list_1__point_a" GUID="9BFA9622-8258-4580-803B-C4DB464894A1"><num>(a)</num><content><p>a declaration of a state of emergency;</p></content></point>
+              <point eId="sec_37__subsec_3__list_1__point_b" GUID="4D26D9C4-989A-4F40-B762-A2B73549984D"><num>(b)</num><content><p>any extension of a declaration of a state of emergency; or</p></content></point>
+              <point eId="sec_37__subsec_3__list_1__point_c" GUID="968F413B-59D4-4708-97C7-4FA779498465"><num>(c)</num><content><p>any legislation enacted, or other action taken, in consequence <eol/>of a declaration of a state of emergency.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_37__subsec_4" GUID="F23D00A6-BBFF-4783-A9A3-506F64E1C9EE"><num>(4)</num>
+            <intro><p>Any legislation enacted in consequence of a declaration of a state <eol/>of emergency may derogate from the Bill of Rights only to the <eol/>extent that –</p></intro>
+            <list eId="sec_37__subsec_4__list_1" GUID="5C969607-FC20-49DC-8D99-1ACD4BD8CD4C">
+              <point eId="sec_37__subsec_4__list_1__point_a" GUID="698295CA-1E23-41F1-B93B-44CECF408778"><num>(a)</num><content><p>the derogation is strictly required by the emergency; and</p></content></point>
+              <point eId="sec_37__subsec_4__list_1__point_b" GUID="EAA60D94-02F3-45F9-ACCF-F754197E4383"><num>(b)</num><intro><p>the legislation –</p></intro>
+                <list eId="sec_37__subsec_4__list_1__point_b__list_1" GUID="8A408EA6-6DC7-479F-93C0-E4016B208A2F">
+                  <point eId="sec_37__subsec_4__list_1__point_b__list_1__point_i" GUID="18BD7911-B7A7-4B1F-8D41-83225160FCC3"><num>(i)</num><content><p>is consistent with the Republic’s obligations under <eol/>international law applicable to states of emergency;</p></content></point>
+                  <point eId="sec_37__subsec_4__list_1__point_b__list_1__point_ii" GUID="26FB20BF-F0E1-4437-B097-2C458F1E4EF4"><num>(ii)</num><content><p>conforms to subsection <ref href="#sec_37__subsec_5">(5)</ref>; and</p></content></point>
+                  <point eId="sec_37__subsec_4__list_1__point_b__list_1__point_iii" GUID="F5BF7122-5A10-4FE4-BDA9-5124CC1F50A3"><num>(iii)</num><content><p>is published in the national Government Gazette as soon <eol/>as reasonably possible after being enacted.</p></content></point>
+                </list></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_37__subsec_5" GUID="FFEEB812-044E-4C43-A3A7-5651A0B73978"><num>(5)</num>
+            <intro><p>No Act of Parliament that authorises a declaration of a state of <eol/>emergency, and no legislation enacted or other action taken in <eol/>consequence of a declaration, may permit or authorise –</p></intro>
+            <list eId="sec_37__subsec_5__list_1" GUID="072F7935-753B-42F5-9F52-24488F53504C">
+              <point eId="sec_37__subsec_5__list_1__point_a" GUID="AD10BC60-968F-4938-B548-02B07CDFBA71"><num>(a)</num><content><p>indemnifying the state, or any person, in respect of any <eol/>unlawful act;</p></content></point>
+              <point eId="sec_37__subsec_5__list_1__point_b" GUID="E478C61B-F7CB-4944-B38F-51752D3FDA13"><num>(b)</num><content><p>any derogation from this section; or</p></content></point>
+              <point eId="sec_37__subsec_5__list_1__point_c" GUID="EB04AE70-20D2-4A3B-8242-84C760089CF2"><num>(c)</num><content><p>any derogation from a section mentioned in column 1 of the <eol/>Table of Non-Derogable Rights, to the extent indicated <eol/>opposite that section in column 3 of the Table.<eop number="17"/></p></content></point>
+            </list>
+          </subsection>
+          <hcontainer name="table" eId="sec_37__tbl_1" GUID="D6BCB7CB-536F-4897-A8AC-FD72481C6214"><heading>Table of Non-Derogable Rights</heading><content><table><tr><th><p>1</p><p>Section number</p></th><th><p>2</p><p>Section title</p></th><th><p>3</p><p>Extent to which the right is non-derogable</p></th></tr><tr><td><p>9</p></td><td><p>Equality</p></td><td><p>With respect to unfair discrimination solely on the grounds of race, colour, ethnic or social origin, sex, religion or language.</p></td></tr><tr><td><p>10</p></td><td><p>Human dignity</p></td><td><p>Entirely</p></td></tr><tr><td><p>11</p></td><td><p>Life</p></td><td><p>Entirely</p></td></tr><tr><td><p>12</p></td><td><p>Freedom and security of the person</p></td><td><p>With respect to subsections (1)(d) and (e) and (2)(c).</p></td></tr><tr><td><p>13</p></td><td><p>Slavery, servitude and forced labour</p></td><td><p>With respect to slavery and servitude</p></td></tr><tr><td><p>28</p></td><td><p>Children</p></td><td><p>With respect to:</p><p>- subsection (1)(d) and (e);</p><p>- the rights in subparagraphs (i) and (ii) of subsection (1)(g); and</p><p>- subsection (1)(i) in respect of children of 15 years and younger.</p></td></tr><tr><td><p>35</p></td><td><p>Arrested, detained and accused persons</p></td><td><p>With respect to:</p><p>- subsections (1)(a), (b) and (c) and (2)(d);</p><p>- the rights in paragraphs (a) to (o) of subsection (3), excluding paragraph (d);</p><p>- subsection (4); and</p><p>- subsection (5) with respect to the exclusion of evidence if the admission of that evidence would render the trial unfair.</p></td></tr></table></content></hcontainer>
+          <subsection eId="sec_37__subsec_6" GUID="F24AB493-E9D9-4E4E-8F99-C28232AA9DEC"><num>(6)</num>
+            <intro><p>Whenever anyone is detained without trial in consequence of a <eol/>derogation of rights resulting from a declaration of a state of <eol/>emergency, the following conditions must be observed:</p></intro>
+            <list eId="sec_37__subsec_6__list_1" GUID="04F6BD9B-5046-48F9-A380-924EB9E3A353">
+              <point eId="sec_37__subsec_6__list_1__point_a" GUID="3934E837-15D0-4527-8756-2D8BAF9C0898"><num>(a)</num><content><p>An adult family member or friend of the detainee must be <eol/>contacted as soon as reasonably possible, and informed that <eol/>the person has been detained.</p></content></point>
+              <point eId="sec_37__subsec_6__list_1__point_b" GUID="B1DFADC6-0F0C-4C6A-ACE1-1D0593E4A94C"><num>(b)</num><content><p>A notice must be published in the national Government <eol/>Gazette within five days of the person being detained, stating <eol/>the detainee’s name and place of detention and referring to <eol/>the emergency measure in terms of which that person has <eol/>been detained.</p></content></point>
+              <point eId="sec_37__subsec_6__list_1__point_c" GUID="C2DA5EB1-67E0-480A-8CB5-122A277E6662"><num>(c)</num><content><p>The detainee must be allowed to choose, and be visited at any <eol/>reasonable time by, a medical practitioner.</p></content></point>
+              <point eId="sec_37__subsec_6__list_1__point_d" GUID="4D74BBBE-154C-47AF-9A7D-8367C19CFAA4"><num>(d)</num><content><p>The detainee must be allowed to choose, and be visited at any <eol/>reasonable time by, a legal representative.</p></content></point>
+              <point eId="sec_37__subsec_6__list_1__point_e" GUID="C08DE11B-6B2E-49C3-9246-190C5B59A519"><num>(e)</num><content><p>A court must review the detention as soon as reasonably <eol/>possible, but no later than 10 days after the date the person <eol/>was detained, and the court must release the detainee unless it <eol/>is necessary to continue the detention to restore peace and <eol/>order.</p></content></point>
+              <point eId="sec_37__subsec_6__list_1__point_f" GUID="A6BC240D-0131-409B-966A-87AD8697882A"><num>(f)</num><content><p>A detainee who is not released in terms of a review under <eol/>paragraph (e), or who is not released in terms of a review <eol/>under this paragraph, may apply to a court for a further <eol/>review of the detention at any time after 10 days have passed <eol/>since the previous review, and the court must release the <eop number="18"/>detainee unless it is still necessary to continue the detention to <eol/>restore peace and order.</p></content></point>
+              <point eId="sec_37__subsec_6__list_1__point_g" GUID="7AB7FBAE-3FC9-4658-9455-907FF8BE7F67"><num>(g)</num><content><p>The detainee must be allowed to appear in person before any <eol/>court considering the detention, to be represented by a legal <eol/>practitioner at those hearings, and to make representations <eol/>against continued detention.</p></content></point>
+              <point eId="sec_37__subsec_6__list_1__point_h" GUID="E1FF2689-A6DD-4F55-9E60-A3D30038B750"><num>(h)</num><content><p>The state must present written reasons to the court to justify <eol/>the continued detention of the detainee, and must give a copy <eol/>of those reasons to the detainee at least two days before the <eol/>court reviews the detention.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_37__subsec_7" GUID="2750204E-BF66-43D5-924A-50421AD420D5"><num>(7)</num>
+            <content><p>If a court releases a detainee, that person may not be detained <eol/>again on the same grounds unless the state first shows a court <eol/>good cause for re-detaining that person.</p></content>
+          </subsection>
+          <subsection eId="sec_37__subsec_8" GUID="F44DF089-3180-45DF-8BD2-515634E66B11"><num>(8)</num>
+            <content><p>Subsections <ref href="#sec_37__subsec_6">(6)</ref> and (7) do not apply to persons who are not South <eol/>African citizens and who are detained in consequence of an <eol/>international armed conflict. Instead, the state must comply with <eol/>the standards binding on the Republic under international <eol/>humanitarian law in respect of the detention of such persons.</p></content>
+          </subsection>
+        </section>
+        <section eId="sec_38" GUID="1B5C806C-DD26-45CC-B753-5379AF671E86"><num>38.</num><heading>Enforcement of rights</heading>
+          <intro><p>Anyone listed in this section has the right to approach a competent <eol/>court, alleging that a right in the Bill of Rights has been infringed or <eol/>threatened, and the court may grant appropriate relief, including a <eol/>declaration of rights. The persons who may approach a court are –</p></intro>
+          <list eId="sec_38__list_1" GUID="82C2B2F5-DB48-4219-99D7-65298DDF6D8E">
+            <point eId="sec_38__list_1__point_a" GUID="3DD81CA9-70AE-4783-869A-C25968338B75"><num>(a)</num><content><p>anyone acting in their own interest;</p></content></point>
+            <point eId="sec_38__list_1__point_b" GUID="8B708C75-0DC2-4375-BB89-66A04FE5AD92"><num>(b)</num><content><p>anyone acting on behalf of another person who cannot act in <eol/>their own name;</p></content></point>
+            <point eId="sec_38__list_1__point_c" GUID="41C98DC7-DF94-45B7-93B6-6323023A3B00"><num>(c)</num><content><p>anyone acting as a member of, or in the interest of, a group or <eol/>class of persons;</p></content></point>
+            <point eId="sec_38__list_1__point_d" GUID="ACCBA9BC-E6ED-4437-85C8-30B7DA41683B"><num>(d)</num><content><p>anyone acting in the public interest; and</p></content></point>
+            <point eId="sec_38__list_1__point_e" GUID="FF98EFC9-EA6D-443C-882B-2EE8FAB86299"><num>(e)</num><content><p>an association acting in the interest of its members.</p></content></point>
+          </list>
+        </section>
+        <section eId="sec_39" GUID="36683E54-6113-4F07-AD10-9FA055422FC8"><num>39.</num><heading>Interpretation of Bill of Rights</heading>
+          <subsection eId="sec_39__subsec_1" GUID="A9B66790-091B-4D84-9452-BB03A9C33404"><num>(1)</num>
+            <intro><p>When interpreting the Bill of Rights, a court, tribunal or forum –</p></intro>
+            <list eId="sec_39__subsec_1__list_1" GUID="E461DAEA-CBF4-4492-8DD1-609BAC7097D7">
+              <point eId="sec_39__subsec_1__list_1__point_a" GUID="EBB6F581-9F6A-4346-BE1F-E75CFAC30582"><num>(a)</num><content><p>must promote the values that underlie an open and <eol/>democratic society based on human dignity, equality and <eol/>freedom;</p></content></point>
+              <point eId="sec_39__subsec_1__list_1__point_b" GUID="1FBFB844-5B1B-4B0E-BD2D-45014FD59017"><num>(b)</num><content><p>must consider international law; and</p></content></point>
+              <point eId="sec_39__subsec_1__list_1__point_c" GUID="4DD8CEF6-D0CB-4B39-94DF-14E28D982E45"><num>(c)</num><content><p>may consider foreign law.</p></content></point>
+            </list>
+          </subsection>
+          <subsection eId="sec_39__subsec_2" GUID="A39B9B28-A5E7-4354-A717-9C1022E9C7A2"><num>(2)</num>
+            <content><p>When interpreting any legislation, and when developing the <eol/>common law or customary law, every court, tribunal or forum <eol/>must promote the spirit, purport and objects of the Bill of Rights.</p></content>
+          </subsection>
+          <subsection eId="sec_39__subsec_3" GUID="D8AA7513-0B74-4941-902A-19621A9875B9"><num>(3)</num>
+            <content><p>The Bill of Rights does not deny the existence of any other rights <eol/>or freedoms that are recognised or conferred by common law, <eol/>customary law or legislation, to the extent that they are consistent <eol/>with the Bill.<eop number="19"/></p></content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
